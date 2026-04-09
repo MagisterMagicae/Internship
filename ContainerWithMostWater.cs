@@ -1,6 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 using System.Reflection.Metadata.Ecma335;
 
+// Approx. Worktime 1.5 hours
+// Suggested Improvements: None
+
 public class Solution {
     public int MaxArea(int[] height) {
         

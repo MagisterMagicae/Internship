@@ -4,6 +4,9 @@ using System.Linq;
 using System.Security;
 using System.Security.Cryptography.X509Certificates;
 
+// Approx. Worktime 11 hours
+// Suggested Improvements: Redesign Fundermentals, Generalisation to all Cases, Improve Readability
+
 int[][] grid = [[1,2,3],[4,5,6]];
 Solution solutionAbtract = new Solution();
 int number = solutionAbtract.MinPathSum(grid);

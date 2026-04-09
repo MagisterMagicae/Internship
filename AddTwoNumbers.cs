@@ -1,6 +1,9 @@
 using System;
 using System.Security.Cryptography.X509Certificates;
 
+// Approx. Worktime 2.5 hours
+// Suggested Improvements: Cleaner ListNode.AddNextDigit() Method
+
  public class ListNode {
     public int val;
     public ListNode next;
