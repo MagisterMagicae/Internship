@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Security.Cryptography.X509Certificates;
 
-int[][] grid = [[1,3,1],[1,5,1],[4,2,1]];
+int[][] grid = [[1,2,3],[4,5,6]];
 Solution solutionAbtract = new Solution();
 int number = solutionAbtract.MinPathSum(grid);
 Console.WriteLine(number);
