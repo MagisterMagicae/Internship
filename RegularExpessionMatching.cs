@@ -1,6 +1,6 @@
-// Approx. Worktime 
-// Suggested Improvements: 
-// Leetcode Runtime 
+// Approx. Worktime 0.5 Hours
+// Suggested Improvements: None
+// Leetcode Runtime 10 ms
 
 using System.Text.RegularExpressions;
 
