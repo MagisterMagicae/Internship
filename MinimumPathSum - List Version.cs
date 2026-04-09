@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Security.Cryptography.X509Certificates;
 
-// Approx. Worktime 1 hours
+// Approx. Worktime 0.5 hours
 // Suggested Improvements: Redesign Fundermentals, Generalisation to all Cases, Improve Readability
 
 int[][] grid = [[1,2,3],[4,5,6]];
