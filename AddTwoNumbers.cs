@@ -3,6 +3,7 @@ using System.Security.Cryptography.X509Certificates;
 
 // Approx. Worktime 2.5 hours
 // Suggested Improvements: Cleaner ListNode.AddNextDigit() Method
+// Leetcode Runtime: 1 ms
 
  public class ListNode {
     public int val;

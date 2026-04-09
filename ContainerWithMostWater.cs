@@ -3,6 +3,7 @@ using System.Reflection.Metadata.Ecma335;
 
 // Approx. Worktime 1.5 hours
 // Suggested Improvements: None
+// Leetcode Runtime 1 ms
 
 public class Solution {
     public int MaxArea(int[] height) {

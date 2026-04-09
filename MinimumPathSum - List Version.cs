@@ -6,6 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 
 // Approx. Worktime 0.5 hours
 // Suggested Improvements: Redesign Fundermentals, Generalisation to all Cases, Improve Readability
+// Leetcode Runtime 360 ms
 
 int[][] grid = [[1,2,3],[4,5,6]];
 Solution solutionAbtract = new Solution();
